@@ -1,3 +1,3 @@
 module github.com/Bgoodwin24/pokedexcli
 
-go 1.22.5
+go 1.23.5
